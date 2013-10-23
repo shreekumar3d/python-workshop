@@ -1,7 +1,7 @@
 python-workshop
 ===============
 
-This repository has the material for my Python Workshop.  Workshop-Flow.txt has the overall flow. 
+This repository has the material for my Python Workshop.  [Workshop-Flow.md](Workshop-Flow.md) contains the overall flow of the workshop.
 
 The .ipynb files are IPython notebooks.  These will serve as a reference both for the presenters as well as the participants.  The notebooks can be viewed in the browser:
 

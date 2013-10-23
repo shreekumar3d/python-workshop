@@ -1,4 +1,4 @@
 python-workshop
 ===============
 
-Python Workshop Contents
+This repository has the material for my Python Workshop.

@@ -13,3 +13,7 @@ The .ipynb files are IPython notebooks.  These will serve as a reference both fo
  - [Exceptions.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/shreekumar3d/python-workship/master/Exceptions.ipynb)
  - [Builtins.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/shreekumar3d/python-workship/master/Builtins.ipynb)
  - [Lists.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/shreekumar3d/python-workship/master/Lists.ipynb)
+ - [Tuples.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/shreekumar3d/python-workship/master/Tuples.ipynb)
+ - [Control.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/shreekumar3d/python-workship/master/Control.ipynb)
+ - [Dictionary.ipynb](http://nbviewer.ipython.org/urls/raw.github.com/shreekumar3d/python-workship/master/Dictionary.ipynb)
+
